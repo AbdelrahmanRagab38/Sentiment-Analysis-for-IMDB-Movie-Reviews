@@ -1,7 +1,6 @@
 
 streamlit==1.18.1
 tables==3.6.1
-tensorflow==2.9.1
 tzdata==2022.7
 tzlocal==4.2
 validators==0.20.0
