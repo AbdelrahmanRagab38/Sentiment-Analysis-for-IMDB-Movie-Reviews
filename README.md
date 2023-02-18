@@ -25,14 +25,8 @@ in this project i applied a lot of concepts
 
 5. Summary & comparing the models
 
-+------------+------------------------+----------+
-| Vectorizer |         Model          | Accuracy |
-+------------+------------------------+----------+
-|    BOW     |      Naive Bayes       |  85.1%   |
-|   TFIDF    |      Naive Bayes       |  85.3%   |
-|   TFIDF    | Logistic Regression-L1 |  88.0%   |
-|   TFIDF    | Logistic Regression-L2 |  89.0%   |
-+------------+------------------------+----------+
+![Screenshot (12)](https://user-images.githubusercontent.com/49238901/219855218-68978218-354d-4d93-88fd-092c802a0f87.png)
+
 
 
 6. Save the Model dumping using pickle
