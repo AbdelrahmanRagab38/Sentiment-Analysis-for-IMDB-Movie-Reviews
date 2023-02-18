@@ -24,6 +24,7 @@ in this project i applied a lot of concepts
   Logistic Regression with reviews TF-IDF encoded (apply L2 regulariztion)
 
 5. Summary & comparing the models
+
 +------------+------------------------+----------+
 | Vectorizer |         Model          | Accuracy |
 +------------+------------------------+----------+
@@ -32,6 +33,7 @@ in this project i applied a lot of concepts
 |   TFIDF    | Logistic Regression-L1 |  88.0%   |
 |   TFIDF    | Logistic Regression-L2 |  89.0%   |
 +------------+------------------------+----------+
+
 
 6. Save the Model dumping using pickle
 
