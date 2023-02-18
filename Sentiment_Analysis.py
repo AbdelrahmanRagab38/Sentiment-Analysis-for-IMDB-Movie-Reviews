@@ -48,7 +48,7 @@ else:
     
 if(User_review ==''):
     prediction_class = " You didn't enter anything yet"
-    st.write('This review is --->', :red[prediction_class])
+    st.write('This review is --->', prediction_class)
 else:
     prediction_class = Functions.predict_sent(User_review,tf_vectorizer,model)
     st.write('This review is ---> ', prediction_class)
