@@ -38,3 +38,6 @@ in this project i applied a lot of concepts
 
      link: https://abdelrahmanragab38-sentiment-analysis-sentiment-analysis-dkw0ki.streamlit.app/
 
+# 8. Deep learning part using ANN to predict the sentiment
+     1- I used the Bow , count , freq , tf-idf vectorizers with the ANN
+# 9. I used the Glove word embedding  , LSTM 
